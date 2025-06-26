@@ -53,7 +53,6 @@ I’m a Computer Engineering graduate and AWS-trained ML Engineer with hands-on 
 
 - **ACM ECPC Egypt Final Round** – 4th Place (2019)  
 - **IEEExtreme 11.0** – Top 20% (2017)  
-- **Vice Chairman** – ACM Pharos University Student Chapter
 
 ---
 
@@ -63,7 +62,7 @@ I’m a Computer Engineering graduate and AWS-trained ML Engineer with hands-on 
 - 🔗 [LinkedIn](https://linkedin.com/in/mohfarouk94/)  
 - 🐍 [Kaggle](https://www.kaggle.com/mohamedfarouk94)  
 - 📜 [Credly](https://www.credly.com/users/mohamed-farouk.87e6e0b3)
-
+- 💰 [Upwork](https://www.upwork.com/freelancers/~010a4765fdccc37961)
 ---
 
 ## 📌 Tech Stack & Tools
