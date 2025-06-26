@@ -8,6 +8,8 @@ Welcome to my GitHub! I'm a Machine Learning Engineer with a strong focus on **N
 
 I’m a Computer Engineering graduate and AWS-trained ML Engineer with hands-on experience in designing and deploying AI systems across NLP, data pipelines, and backend services. My passion lies in building solutions that make complex models accessible and useful—from RAG-based assistants to fine-tuned SQL translators. With a foundation in algorithmic thinking and a flair for clean, scalable backend architecture, I aim to bridge the gap between research and production.
 
+You can check my [resume](https://drive.google.com/file/d/15UtTzZOFZgllUXe3Ia06lhF5_cwfmMdm/view) and my [portfolio](https://mohamedfarouk94.github.io/).
+
 ---
 
 ## 🛠️ What Can I Do for You?
