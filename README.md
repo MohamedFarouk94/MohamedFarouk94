@@ -29,7 +29,7 @@ You can check my [resume](https://drive.google.com/file/d/15UtTzZOFZgllUXe3Ia06l
 > **Stack**: LangChain, HuggingFace, GroqCloud, FastAPI, Retrieval Pipeline  
 > **Latency**: Sub-second | **Accuracy**: >90%
 
-### 🔹 [Text-to-SQL Natural Language Interface](https://www.kaggle.com/code/mohamedfarouk94/ai-powered-postgresql)
+### 🔹 [Natural Language Database Query System](https://github.com/MohamedFarouk94/Natural-Language-Database-Queries)
 > Converts natural language into SQL queries using a fine-tuned prem-1B model. Includes automated evaluation pipeline.  
 > **Stack**: LoRA, PostgreSQL, BitsAndBytes Quantization, LangChain  
 > **Model Size**: 5.1GB → 852MB | **Accuracy**: 91%
