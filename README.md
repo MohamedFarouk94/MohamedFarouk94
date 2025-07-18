@@ -38,7 +38,7 @@ You can check my [resume](https://drive.google.com/file/d/15UtTzZOFZgllUXe3Ia06l
 > Combines content-based, rating-based, and collaborative filtering for enhanced recommendation performance.  
 > **Score**: Recall@10: 75% | Heavy data preprocessing and metric evaluation
 
-### 🔹 [Amazon Scraper Desktop App](https://github.com/MohamedFarouk94/Pychot)
+### 🔹 [Amazon Scraper Desktop App](https://github.com/MohamedFarouk94/amazon-scraper)
 > GUI app to scrape Amazon product data and store it in CSV/JSON formats.  
 > **Stack**: Python, Tkinter, Requests, BeautifulSoup
 
