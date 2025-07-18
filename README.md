@@ -74,12 +74,5 @@ You can check my [resume](https://drive.google.com/file/d/15UtTzZOFZgllUXe3Ia06l
 
 ---
 
-## 💡 Philosophy
-
-> _"Build AI tools that solve real problems, not just showcase models."_  
-> – Mohamed Farouk
-
----
-
 ⭐ If you find my work interesting or want to collaborate, feel free to reach out or star the repo you're exploring!
 
