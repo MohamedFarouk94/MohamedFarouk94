@@ -34,6 +34,11 @@ You can check my [resume](https://drive.google.com/file/d/15UtTzZOFZgllUXe3Ia06l
 > **Stack**: LoRA, PostgreSQL, BitsAndBytes Quantization, LangChain  
 > **Model Size**: 5.1GB → 852MB | **Accuracy**: 91%
 
+### 🔹 [Phext: Search Photos with Text](https://github.com/MohamedFarouk94/phext)
+> Semantic image search engine using CLIP embeddings with aggressive model optimization for mobile deployment.  
+> **Stack**: CLIP, ONNX Runtime, PyTorch Pruning, INT8 Quantization, Tkinter GUI  
+> **Model Size**: 577MB → 146MB (75% reduction) | **Inference**: 82ms → 50ms | **Recall@5**: 0.955
+
 ### 🔹 [Hybrid Movie Recommender System](https://www.kaggle.com/code/mohamedfarouk94/the-movie-recommender-system)
 > Combines content-based, rating-based, and collaborative filtering for enhanced recommendation performance.  
 > **Score**: Recall@10: 75% | Heavy data preprocessing and metric evaluation
