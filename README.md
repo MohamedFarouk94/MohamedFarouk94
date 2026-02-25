@@ -41,6 +41,7 @@
 > **Stack**: Django, Django Channels, REST API, Tkinter
 
 - *Pinned repos are the most recent repos and/or projects I'm currently working on*.
+---
 
 ## 📝 Notebooks
 
