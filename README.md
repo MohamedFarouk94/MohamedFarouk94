@@ -17,18 +17,18 @@ If you want to contact me, or to know more about me, feel free to check my [resu
 ## 📌 Featured Projects
 
 ### 🔹 [AI Customer Support Assistant](https://github.com/MohamedFarouk94/AI-customer-support)
-> A RAG-based AI assistant that answers customer queries using local knowledge base + Groq Llama 3 API.
-> **Stack**: RAG, LangChain, HuggingFace, GroqCloud
+> A RAG-based AI assistant that answers customer queries using local knowledge base + Groq Llama 3 API.\
+> **Stack**: RAG, LangChain, HuggingFace, GroqCloud\
 > **Latency**: Sub-second | **Accuracy**: >90%
 
 ### 🔹 [Natural Language Database Query System](https://github.com/MohamedFarouk94/Natural-Language-Database-Queries)
 > Converts natural language into SQL queries using a fine-tuned prem-1B model. Includes automated evaluation pipeline.  
-> **Stack**: LoRA, PostgreSQL, BitsAndBytes Quantization, LangChain
+> **Stack**: LoRA, PostgreSQL, BitsAndBytes Quantization, LangChain\
 > **Model Size**: Shrinked from 5.1GB to 852MB | **Accuracy**: 91% | Analysis and Reporting: [Kaggle Notebook](https://www.kaggle.com/code/mohamedfarouk94/ai-powered-postgresql)
 
 ### 🔹 [MultiAgent](https://github.com/MohamedFarouk94/multiagent)
-> AI Chat platform supporting text and audio messages.
-> Allows users to create multiple agents with different instructions/persona.
+> AI Chat platform supporting text and audio messages.\
+> Allows users to create multiple agents with different instructions/persona.\
 > **Stack**: OpenAI| LangChain | FastAPI | JavaScript (Vanilla) | Docker
 
 ### 🔹 [Phext: Search Photos with Text](https://github.com/MohamedFarouk94/phext)
@@ -37,7 +37,7 @@ If you want to contact me, or to know more about me, feel free to check my [resu
 > **Model Size**: 577MB → 146MB (75% reduction) | **Inference**: 82ms → 50ms | **Recall@5**: 0.955 | Analysis and Reporting: [Kaggle Notebook](https://www.kaggle.com/code/mohamedfarouk94/phext-search-photos-with-text)
 
 ### 🔹 [Pychot: Chat Server/Client](https://github.com/MohamedFarouk94/Pychot)
-> A lightweight chat server-client application features real-time messaging, authentication and a simple GUI.
+> A lightweight chat server-client application features real-time messaging, authentication and a simple GUI.\
 > **Stack**: Django, Django Channels, REST API, Tkinter
 
 ---
