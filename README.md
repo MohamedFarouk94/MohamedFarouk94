@@ -40,7 +40,7 @@
 > A lightweight chat server-client application features real-time messaging, authentication and a simple GUI.\
 > **Stack**: Django, Django Channels, REST API, Tkinter
 
-- *Pinned repos are the most recent repos and/or projects I'm currently working on*.
+- *Pinned repos below are the most recent repos and/or projects I'm currently working on*.
 ---
 
 ## 📝 Notebooks
