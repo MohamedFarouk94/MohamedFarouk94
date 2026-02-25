@@ -1,9 +1,3 @@
-# 👋 Hello there!
-
-I'm Mohamed Farouk. Machine Learning Engineer with focus on NLP. I have a Bachelor of Engineering in Computer Engineering, and currently pursuing a Master's degree in Mathematics and Computer Science.
-
-If you want to contact me, or to know more about me, feel free to check my [resume](https://drive.google.com/file/d/15UtTzZOFZgllUXe3Ia06lhF5_cwfmMdm/view) and my [portfolio](https://mohamedfarouk94.github.io/).
-
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Alfred_Seifert_Hypatia.jpg" alt="Description of Image" width=345 height=450/>
 </p>
@@ -11,7 +5,11 @@ If you want to contact me, or to know more about me, feel free to check my [resu
   <i>Hypatia the Alexandrian</i>, as portrayed by Alfred Seifert circa 1892. She was a philosopher, astronomer and mathematician. Probably the most remarkable person from my city.
 </small></p>
 
+# 👋 Hello there!
 
+I'm Mohamed Farouk. Machine Learning Engineer with focus on NLP. I have a Bachelor of Engineering in Computer Engineering, and currently pursuing a Master's degree in Mathematics and Computer Science.
+
+If you want to contact me, or to know more about me, feel free to check my [resume](https://drive.google.com/file/d/15UtTzZOFZgllUXe3Ia06lhF5_cwfmMdm/view) and my [portfolio](https://mohamedfarouk94.github.io/).
 ---
 
 ## 📌 Featured Projects
