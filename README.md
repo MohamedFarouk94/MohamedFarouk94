@@ -39,5 +39,5 @@
 > **Stack**: Django, Django Channels, REST API, Tkinter
 
 ---
-⭐ If you find my work interesting or want to collaborate, feel free to reach out or star the repo you're exploring!
+⭐ If you find my work interesting or want to collaborate, feel free to reach out or star the repo you're exploring!\
 ⭐ Fot contact, feel free to email me on mohamedfarouk1994@gmail.com, or you can reach any of my social media accounts on the left bar.
