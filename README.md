@@ -22,7 +22,7 @@
 ### 🔹 [Natural Language Database Query System](https://github.com/MohamedFarouk94/Natural-Language-Database-Queries)
 > Converts natural language into SQL queries using a fine-tuned prem-1B model. Includes automated evaluation pipeline.  
 > **Stack**: LoRA, PostgreSQL, BitsAndBytes Quantization, LangChain\
-> **Model Size**: Shrinked from 5.1GB to 852MB | **Accuracy**: 91% | Analysis and Reporting: [Kaggle Notebook](https://www.kaggle.com/code/mohamedfarouk94/ai-powered-postgresql)
+> **Model Size**: Shrinked from 5.1GB to 852MB (83% reduction) | **Accuracy**: 91% | Analysis and Reporting: [Kaggle Notebook](https://www.kaggle.com/code/mohamedfarouk94/ai-powered-postgresql)
 
 ### 🔹 [MultiAgent](https://github.com/MohamedFarouk94/multiagent)
 > AI Chat platform supporting text and audio messages.\
@@ -32,11 +32,19 @@
 ### 🔹 [Phext: Search Photos with Text](https://github.com/MohamedFarouk94/phext)
 > Semantic image search engine using CLIP embeddings with aggressive model optimization for mobile deployment.  
 > **Stack**: CLIP, ONNX Runtime, PyTorch Pruning, INT8 Quantization, Tkinter GUI  
-> **Model Size**: 577MB → 146MB (75% reduction) | **Inference**: 82ms → 50ms | **Recall@5**: 0.955 | Analysis and Reporting: [Kaggle Notebook](https://www.kaggle.com/code/mohamedfarouk94/phext-search-photos-with-text)
+> **Model Size**: Shrinked from 577MB to 146MB (75% reduction) | **Inference**: 82ms → 50ms | **Recall@5**: 0.955 | Analysis and Reporting: [Kaggle Notebook](https://www.kaggle.com/code/mohamedfarouk94/phext-search-photos-with-text)
 
 ### 🔹 [Pychot: Chat Server/Client](https://github.com/MohamedFarouk94/Pychot)
 > A lightweight chat server-client application features real-time messaging, authentication and a simple GUI.\
 > **Stack**: Django, Django Channels, REST API, Tkinter
+
+- *Pinned repos are the most recent repos and/or projects I'm currently working on*.
+
+## 📝 Notebooks
+
+### 🔹 [Movie Recommender System from Scratch](https://www.kaggle.com/code/mohamedfarouk94/the-movie-recommender-system)
+### 🔹 [Let's Make a Guess! Contexto Solver](https://www.kaggle.com/code/mohamedfarouk94/let-s-make-a-guess-contexto-solver)
+### 🔹 [Wave Your Flag! 2026 FIFA World Cup Simulation from Scratch](https://www.kaggle.com/code/mohamedfarouk94/wave-your-flag-predicting-fifa-world-cup-2026)
 
 ---
 ⭐ If you find my work interesting or want to collaborate, feel free to reach out or star the repo you're exploring!\
