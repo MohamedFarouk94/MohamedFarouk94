@@ -32,7 +32,7 @@
 
 ### 🔹 [Phext: Search Photos with Text](https://github.com/MohamedFarouk94/phext)
 > Semantic image search engine using CLIP embeddings with aggressive model optimization for mobile deployment.\
-> **Stack**: CLIP, ONNX Runtime, PyTorch Pruning, INT8 Quantization, Tkinter GUI
+> **Stack**: CLIP, ONNX Runtime, PyTorch Pruning, INT8 Quantization, Tkinter GUI\
 > **Model Size**: Shrinked from 577MB to 146MB (75% reduction) | **Inference**: 82ms → 50ms | **Recall@5**: 0.955\
 > Analysis and Reporting: [Kaggle Notebook](https://www.kaggle.com/code/mohamedfarouk94/phext-search-photos-with-text)
 
