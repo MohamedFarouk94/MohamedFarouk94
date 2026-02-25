@@ -1,4 +1,4 @@
-# 👋 Hwello there!
+# 👋 Hello there!
 
 I'm Mohamed Farouk. Machine Learning Engineer with focus on NLP. I have a Bachelor of Engineering in Computer Engineering, and currently pursuing a Master's degree in Mathematics and Computer Science.
 
