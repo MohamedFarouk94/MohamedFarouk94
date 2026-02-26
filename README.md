@@ -25,7 +25,7 @@
 > **Model Size**: Shrinked from 5.1GB to 852MB (83% reduction) | **Accuracy**: 91%\
 > Analysis and Reporting: [Kaggle Notebook](https://www.kaggle.com/code/mohamedfarouk94/ai-powered-postgresql)
 
-### 🔹 [MultiAgent](https://github.com/MohamedFarouk94/multiagent)
+### 🔹 [MultiAgent: AI Platform with Text/Audio](https://github.com/MohamedFarouk94/multiagent)
 > AI Chat platform supporting text and audio messages.\
 > Allows users to create multiple agents with different instructions/persona.\
 > **Stack**: OpenAI | LangChain | FastAPI | JavaScript (Vanilla) | Docker
