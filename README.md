@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Alfred_Seifert_Hypatia.jpg" alt="Description of Image" width=345 height=450/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Alfred_Seifert_Hypatia.jpg" alt="Description of Image" width=276 height=360/>
 </p>
 <p align="center"><small>
   <i>Hypatia of Alexandria</i>, as portrayed by Alfred Seifert circa 1892. She was a philosopher, astronomer and mathematician in the late 4th and early 5th centuries. Probably the most remarkable person from my city.
